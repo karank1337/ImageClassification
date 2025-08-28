@@ -29,7 +29,6 @@ https://drive.google.com/drive/folders/1aERYZt_sOPlYZ_N-cQBYtQkZ5AMh55BJ?usp=dri
    │   └── Squirrel/
    ├── best_improved_model.pth
    ├── Imageclassification_KK.ipynb
-   ├── Imageclassification_KK (copy).ipynb
    ├── requirements.txt
    └── README.md
    ```
